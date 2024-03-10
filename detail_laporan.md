@@ -114,7 +114,8 @@ Metrik yang digunakan dalam menganalisa dari model yang digunakan _Random Forest
 
 [Metrik Evaluasi](/assets/images/download.png)
 
-- Akurasi 
+### Akurasi
+Metrik akurasi digunakan untuk melihat model memprediksi seberapa banyak data uji yang benar dengan data label target sebenarnya. Data akurasi yang telihat pada model _Random Forest_ dan _Decision Tree_ menampilkan score untuk akurasi dari model _Random Forest_ sebesar 0.79 dan _Decision Tree_ 0.74
 
 Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
 - Penjelasan mengenai metrik yang digunakan
